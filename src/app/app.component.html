@@ -1,0 +1,56 @@
+<thu>
+  <p>Is content projection cool?</p>
+</thu>
+<img class="anh" [attr.src]="anh" alt="">
+<input #tuyet (change)="thienthien($event)"/>
+<button (click)="thienthien($event)"></button>
+<p [style]="thuthu">{{tuyet.value}}</p>
+<p> {{ngaysinh|date:'fullDate'}}</p>
+<p> {{tiente|currency:'Vnd'}}</p>
+<p *ngIf="thien1; else thien">
+ {{thien1}}
+</p>
+<ng-template #thien> {{thien2}}</ng-template>
+<p *ngFor="let item of tuyettuyet, let i=index">
+  phần tử thứ {{i}} là
+{{item}}
+</p>
+<div [ngSwitch]="khoakhoa">
+  <p *ngSwitchCase="1">oke </p>
+  <p *ngSwitchCase="2">oke oke</p>
+  <p *ngSwitchCase="3">oke oke oke</p>
+  <p *ngSwitchDefault>This is Default</p>
+</div>
+
+<p apphighlight> Highlight me! </p>
+<p> {{thien2}}</p>
+
+<h1>Angular Router App</h1>
+<!-- This nav gives you links to click, which tells the router which route to use (defined in the routes constant in  AppRoutingModule) -->
+<nav>
+  <ul>
+    <li><a routerLink="/hoa" routerLinkActive="active" ariaCurrentWhenActive="page">First Component</a></li>
+    <li><a routerLink="/hoa2" routerLinkActive="active" ariaCurrentWhenActive="page">Second Component</a></li>
+  </ul>
+</nav>
+<!-- The routed views render in the <router-outlet>-->
+  <router-outlet></router-outlet>
+  <app-dangnhap></app-dangnhap>
+
+  <h4>Loại sản phẩm: </h4> 
+<loaisanpham></loaisanpham> 
+<hr>
+<h4>Danh sách sản phẩm</h4> 
+<sanphamlist (chonSP) ="ganSP($event)"></sanphamlist> 
+<hr>
+<h4>Chỉnh sửa sản phẩm: </h4>
+<sanphamsua [sp]="sp"></sanphamsua>
+<hr>
+<h4>Thêm sản phẩm :</h4> 
+<sanphamthem ></sanphamthem> 
+
+
+<button type="button" (click)="toggle()">Toggle Open/Close</button>  
+<div [@openClose]="isOpen ? 'open' : 'closed'" class="open-close-container">  
+  <p>The box is now {{ isOpen ? 'Open' : 'Closed' }}!</p>  
+</div>  

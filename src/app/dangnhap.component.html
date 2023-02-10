@@ -1,0 +1,7 @@
+<form class="col-6 m-auto" [formGroup]="frm1" (ngSubmit)=inrathu()>
+    <p>{{khoa}}</p>
+    <p> <input formControlName="username" type="text" name="u" class="form-control"> </p>
+    <p> <input formControlName="password" type="password" name="u" class="form-control"></p>
+    <p><button type="submit" class="btn btn-danger px-4 py-2">Submit</button></p>
+    <p *ngIf="frm1.controls['username']?.errors"> lỗi rồi bà nội </p>
+    </form>

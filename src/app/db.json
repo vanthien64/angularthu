@@ -1,0 +1,103 @@
+{
+  "sanpham": [
+    {
+      "id": 1,
+      "tensp": "Xiaomi Redmi Note 11",
+      "giasp": "5490000",
+      "mota": "Xiaomi Redmi Note 11 được xem như chiếc smartphone có giá tầm trung ấn tượng, với 1 cấu hình mạnh, cụm camera xịn sò, pin khỏe, sạc nhanh mà giá lại rất phải chăng.",
+      "hinh": "https://lh3.googleusercontent.com/iUR5Wuvxm8lnS3nYpfaYZxywjWGDVxe1hQm0tg0m5gKOMD7HzmU-lAbpczF84bSCQ2l1VwdYzf4BuBQzdk9UaqhFV0a32Q0A0emCthMtoZWJ18FI-DgsWNckdQHp1ENGkWKMLN8tt0z4Z5m7J7n5FKBeaQ6AA1GmoVWN6i964VCZcgeQGyi_cWzMm7yG4b8z_t_XsGpnhDypYa_XWc_rNfjl0Aiy3dABDqSi4GMR9HWAWVU1skciOebqBVLP7QG2aLvxHYWf0TdU86MebWqkH_bdiCiMKh5up57TbPe4GRdf9HoySGSpcVzyz1q56dPv98xA5pt7SDITZcR4ya4gOYv87FQ3VZ88-TBERgWde2tuHGm_AQB8TUe9CcMNaJzlO_xJhBrjbYlWZCemf0r-VRJduqHFDFuyMAJhFvoMZN39Gs_tW5fVk3PInXocn-6qi8tLFLWE8l3c987pTyc_yksDjgSz02QFiw34GkK7iaCLv7RTSCMwqFIxeBy3pT4vyEaOyVN3OJZVT7dsKK6z4euSlHa3uoBT3xolM4vr3g2iWR1r0AnTLu-vYlGbX1J3eju9C7gBus3Mn8kfgazbS7_9RQ8Y3cRm5orRn3zBESZm40VIx8HdRTvJo6ZBFioQHD1dWcLjYJi5mpG7xA20YMBUVSzSdaNQdq8eKSNUVVe3fYilBwkm4dSVcZJGAbIyP-SJULK3StGF7O5KO9SMnJamoOvYh--1_iD2NSAa3FHEnC9u1G-c0jP7rtI_3DX4bgczOMkpoLuCbVTijvzRaM_HRLnmKIe3P1qrBzRz30EAu1LG0_FP6WZ9LPqSFuvJzQXhEt1-YIIfsB2tjj5_4QqE7YH-tuUoA9COqIQSwSWKCmzOpdcjp1nFVdNbOKdYN1bCUmO034zmVm1qT2Sh8DkyhCgmbz09H8KSznhMHzYJdi2e=w727-h969-no?authuser=0",
+      "ngay": "2022-04-01",
+      "idLoai": "1"
+    },
+    {
+      "id": 2,
+      "tensp": "Phone 13 Pro Max 128GB ",
+      "giasp": "33490000",
+      "mota": "Máy thiết kế không mấy đột phá khi so với người tiền nhiệm, màn hình siêu đẹp, tần số quét nâng cấp lên 120 Hz mượt mà, cảm biến camera có kích thước lớn hơn",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-xanh-la-thumb-600x600.jpg",
+      "ngay": "2022-04-02",
+      "idLoai": "1"
+    },
+    {
+      "id": 3,
+      "tensp": "Vivo Y33s",
+      "giasp": "6990000",
+      "mota": "Vivo Y33s thiết kế trẻ trung với màu đen tráng gương và xanh mộng mơ. Phiên bản màu đen được phủ lớp tráng gương sáng bóng, có thể trở thành chiếc gương tiện lợi",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/249102/Vivo-y33s-yellow-thumb-600x600.jpg",
+      "ngay": "2022-04-03",
+      "idLoai": "1"
+    },
+    {
+      "id": 4,
+      "tensp": "OPPO Reno7 Z 5G",
+      "giasp": "10490000",
+      "mota": "Sản phẩm có thiết kế OPPO Glow độc quyền, camera mang hiệu ứng như máy DSLR chuyên nghiệp cùng viền sáng kép, có cấu hình mạnh mẽ và đạt chứng nhận xếp hạng A về độ mượt.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/271717/oppo-reno7-z-5g-thumb-1-1-600x600.jpg",
+      "ngay": "2022-04-04",
+      "idLoai": "1"
+    },
+    {
+      "id": 5,
+      "tensp": "Samsung Galaxy A03 3GB",
+      "giasp": "2990000",
+      "mota": "Là điện thoại Galaxy A đầu tiên của nhà Samsung trong năm 2022 tại VN. Sản phẩm có giá dễ tiếp cận, camera chính đến 48 MP, pin 5000 mAh thoải mái sử dụng cả ngày.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/251856/samsung-galaxy-a03-xanh-thumb-600x600.jpg",
+      "ngay": "2022-04-02",
+      "idLoai": "1"
+    },
+    {
+      "id": 6,
+      "tensp": "Samsung Galaxy A52s 5G 128GB",
+      "giasp": "10990000",
+      "mota": "Điện thoại Galaxy A52s 5G là phiên bản nâng cấp của Galaxy A52 5G, với ngoại hình không đổi nhưng được nâng cấp đáng kể về thông số cấu hình bên trong.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/247507/samsung-galaxy-a52s-5g-mint-600x600.jpg",
+      "ngay": "2022-04-03",
+      "idLoai": "1"
+    },
+    {
+      "tensp": "thiện",
+      "giasp": 12,
+      "id": 7
+    },
+    {
+      "tensp": "thiện",
+      "giasp": 12,
+      "id": 8
+    },
+    {
+      "tensp": "ww",
+      "giasp": 222,
+      "id": 9
+    }
+  ],
+  "loaisp": [
+    {
+      "id": 1,
+      "tenLoai": "Điện thoại di động",
+      "soSP": 190
+    },
+    {
+      "id": 2,
+      "tenLoai": "Laptop",
+      "soSP": 178
+    },
+    {
+      "id": 3,
+      "tenLoai": "Đồng hồ đeo tay",
+      "soSP": 143
+    },
+    {
+      "id": 4,
+      "tenLoai": "Gia dụng",
+      "soSP": 781
+    },
+    {
+      "id": 5,
+      "tenLoai": "Đồ điện",
+      "soSP": 351
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
